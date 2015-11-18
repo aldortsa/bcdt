@@ -1,0 +1,17 @@
+name = Base Theme 
+description = Base Theme
+core = 7.x
+
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[content_header] = Content Header
+regions[content_middle] = Content Middle
+regions[content_footer] = Content Footer
+
+
+
+
+
+
+
